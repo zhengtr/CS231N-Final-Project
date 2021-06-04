@@ -1,4 +1,4 @@
-# CS 231N (Convolutional Neural Networks for Visual Recognition, Spring 2021) Final Project.
+# CS 231N (Convolutional Neural Networks for Visual Recognition, Spring 2021, Stanford University) Final Project.
 ## Title: Estimating Depth From RGB Monocular images
 
 This is the repository CS231N final project.  

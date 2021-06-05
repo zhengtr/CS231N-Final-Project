@@ -1,4 +1,4 @@
-# CS 231N (Convolutional Neural Networks for Visual Recognition, Spring 2021) Final Project.
+# CS 231N (Convolutional Neural Networks for Visual Recognition, Spring 2021, Stanford University) Final Project.
 ## Title: Estimating Depth From RGB Monocular images
 
 This is the repository CS231N final project.  
@@ -37,7 +37,7 @@ Run
 ```
 pipenv run python main.py --model fpn --dataset nyu --action train 
 ```
-under part_A.
+under ./part_A.
 
 The `--model` argument specifies which model to be used, choices: `vgg`, `unet`, `fpn`, `unet++`;
 
@@ -70,7 +70,7 @@ Run
 ```
 pipenv run python main.py --model ResMod --dataset nyu --action train 
 ```
-under part_A.
+under ./part_B.
 
 The `--model` argument specifies which model to be used, choices: `ResMod` (ResNet Transfer model), `dual` (Multi-Scaled model);
 
